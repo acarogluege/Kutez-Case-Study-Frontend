@@ -4,7 +4,7 @@ function ProductList() {
   const [products, setProducts] = useState([]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const itemsPerPage = 4;
-  const API_URL = "https://backend-production-c4f6.up.railway.app/docs"; // This assumes FastAPI server is running locally at port 8000
+  const API_URL = "https://backend-production-c4f6.up.railway.app/docs#/"; // This assumes FastAPI server is running locally at port 8000
 
   useEffect(() => {
     fetch(API_URL)
