@@ -1,5 +1,5 @@
-# Getting Started with Create React App
+# This is the Frontend for the Kutez Full Stack Assignment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Here is the link for the frontend page [Product_Listing](https://frontende-psi.vercel.app/).
 
 
